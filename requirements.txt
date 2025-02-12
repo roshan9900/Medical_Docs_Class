@@ -1,0 +1,9 @@
+pandas
+mlflow
+numpy
+scikit-learn
+matplotlib
+python-box
+Flask
+Flask-Cors
+types-PyYAML
