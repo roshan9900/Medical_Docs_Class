@@ -1,0 +1,11 @@
+artifacts_root: artifacts
+
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_url: falgunipatel19/biomedical-text-publication-classification
+  local_data_file: C:\Users\Roshan Salunke\.cache\kagglehub\datasets\falgunipatel19\biomedical-text-publication-classification\versions\1
+  copy_dir: artifacts/data_ingestion
+
+# path = kagglehub.dataset_download("falgunipatel19/biomedical-text-publication-classification")
