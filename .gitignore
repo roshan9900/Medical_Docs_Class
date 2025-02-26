@@ -1,0 +1,7 @@
+venv/
+.env/
+logs/
+artifacts/
+data/
+data/raw_data/raw_data.csv
+model/
